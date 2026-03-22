@@ -1,23 +1,23 @@
-# FrankyCoWork 👋
+# FrankyCoWork
 
-WordPress Engineer • Product Builder • Performance Focused  
-
----
-
-## ⚡ What I build
-
-- Job Board Systems  
-- Freelance Marketplaces  
-- High-performance WordPress platforms  
+WordPress Engineer • Product Thinking • Performance Driven
 
 ---
 
-## 🧠 How I work
+## About
+
+I build and maintain production-grade WordPress systems, focusing on scalability, performance, and real business use cases.
+
+Worked on job board platforms, freelance marketplaces, and multiple client systems in real environments.
+
+---
+
+## System Thinking
 
 ```mermaid
 flowchart LR
-    A[Business Idea] --> B[Analysis]
-    B --> C[System Design]
-    C --> D[Development]
+    A[Requirement] --> B[Analysis]
+    B --> C[Architecture]
+    C --> D[Implementation]
     D --> E[Optimization]
-    E --> F[Delivery]
+    E --> F[Iteration]
