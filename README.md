@@ -43,7 +43,7 @@
 ---
 
 ## 📫 Contact Me
-- Email: hi.frankycowork@gmail.com
+- Email: franky.co.work@gmail.com
 - GitHub: https://github.com/Franky755
 
 ---
