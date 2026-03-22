@@ -14,8 +14,11 @@ Worked on job board platforms, freelance marketplaces, and multiple client syste
 
 ## 📊 Stats
 
-```txt
-4+ years experience
-20+ WordPress projects delivered
-2+ commercial products (ThemeForest)
-90+ PageSpeed optimization (multiple projects)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankycowork&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frankycowork&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankycowork&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
