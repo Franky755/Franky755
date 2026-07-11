@@ -1,4 +1,4 @@
-# Hi there 👋 I'm FrankyCoWork
+# Hi there 👋 I'm FrankyCoWork  https://devbyfranky.com/
 
 🚀 Freelance Web Developer | WordPress Specialist | Building Scalable Platforms
 
@@ -24,7 +24,7 @@
 ## 📌 Featured Projects
 
 ### 🧑‍💻 Freelance Marketplace Theme (Felan)
-- 🔗 https://themeforest.net/item/felan-freelance-marketplace-and-job-board-wordpress-theme/53612955
+- 🔗 https://felan.ricetheme.com/freelance/
 - A customizable freelance marketplace built on WordPress
 - Tech: WordPress, PHP, REST API
 
