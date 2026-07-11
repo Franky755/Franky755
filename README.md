@@ -1,51 +1,133 @@
-# Hi there 👋 I'm FrankyCoWork  https://devbyfranky.com/
+# Hi, I'm Franky 👋
 
-🚀 Freelance Web Developer | WordPress Specialist | Building Scalable Platforms
+### Full Stack Web Developer · WordPress & Laravel · React / Next.js
 
----
+I help businesses build scalable web platforms—from high-performance corporate websites to custom web applications and headless solutions.
 
-## 💡 About Me
-- 🔭 Working on real-world WordPress systems (job boards, marketplaces)
-- 🌱 Currently learning System Design & Cloud (AWS)
-- ⚡ Focus on performance, SEO, and scalable architecture
-- 💼 Open for freelance opportunities
+With several years of experience in WordPress development, I specialize in creating maintainable systems, custom plugins, API integrations, and modern frontend experiences using React and Next.js.
 
----
-
-## 🛠 Tech Stack
-- 💻 Frontend: HTML, CSS, JavaScript, React, Next.js
-- ⚙️ Backend: PHP, Node.js, REST API
-- 🧩 CMS: WordPress (Custom Theme & Plugin Development)
-- 🚀 Tools: Git, Docker, Linux
-- ☁️ Learning: AWS, DevOps
+🌐 **Portfolio:** https://devbyfranky.com
+📩 **Email:** [franky.co.work@gmail.com](mailto:franky.co.work@gmail.com)
 
 ---
 
-## 📌 Featured Projects
+## About Me
 
-### 🧑‍💻 Freelance Marketplace Theme (Felan)
-- 🔗 https://felan.ricetheme.com/freelance/
-- A customizable freelance marketplace built on WordPress
-- Tech: WordPress, PHP, REST API
-
-### 💼 Job Board System (Civi)
-- 🔗 https://themeforest.net/item/civi-job-board-wordpress-theme/42770817
-- Job listing & recruitment platform
-- Focus: UX, performance optimization
+* 💼 Full Stack Web Developer with a strong WordPress background
+* 🚀 Building scalable B2B websites, marketplaces, and business platforms
+* ⚙️ Experienced in custom themes, plugins, Elementor widgets, and REST APIs
+* 🔗 Integrating third-party services, CRMs, payment gateways, and external systems
+* ⚡ Passionate about performance optimization, SEO, accessibility, and clean architecture
+* 📚 Currently expanding into Laravel, System Design, AWS, AI Integration, and DevOps
+* 🤝 Open to freelance projects and long-term technical partnerships
 
 ---
 
-## 📊 GitHub Stats
-![Franky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franky755&show_icons=true&theme=tokyonight&hide_border=true)
+## Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franky755&layout=compact&theme=tokyonight&hide_border=true)
+### Frontend
+
+* HTML5
+* CSS3 / SCSS
+* JavaScript (ES6+)
+* React
+* Next.js
+* TypeScript
+
+### Backend
+
+* PHP
+* Laravel
+* REST API
+* MySQL
+
+### CMS
+
+* WordPress
+* WooCommerce
+* Elementor
+* Advanced Custom Fields (ACF)
+
+### DevOps & Tools
+
+* Git
+* Bitbucket
+* Docker
+* Linux
+* Postman
+
+### Currently Learning
+
+* AWS
+* System Design
+* CI/CD
+* AI Integration & Automation
 
 ---
 
-## 📫 Contact Me
-- Email: franky.co.work@gmail.com
-- GitHub: https://github.com/Franky755
+## Featured Projects
+
+### 🚀 Felan — Freelance Marketplace
+
+A complete freelance marketplace built on WordPress featuring freelancer profiles, project management, hiring workflows, messaging, and dashboards.
+
+**Tech Stack**
+
+* WordPress
+* PHP
+* JavaScript
+* REST API
+
+🔗 https://felan.ricetheme.com/freelance/
 
 ---
 
-> Building real products. Optimizing for performance. Scaling step by step.
+### 💼 Civi — Recruitment & Job Board Platform
+
+A modern recruitment platform supporting employers, candidates, agencies, resumes, applications, and hiring workflows.
+
+**Tech Stack**
+
+* WordPress
+* PHP
+* JavaScript
+* AJAX
+* REST API
+
+🔗 https://themeforest.net/item/civi-job-board-wordpress-theme/42770817
+
+---
+
+## What I Enjoy Building
+
+* Enterprise Websites
+* Headless WordPress
+* B2B Platforms
+* Job Boards
+* Marketplace Systems
+* Custom WordPress Solutions
+* API Integrations
+* Performance Optimization
+* SEO-focused Websites
+
+---
+
+## Let's Connect
+
+I'm always interested in working on challenging projects involving:
+
+* Custom Web Development
+* WordPress & Laravel
+* Headless CMS
+* React / Next.js
+* API Integrations
+* Business Automation
+* Long-term Product Development
+
+📩 **Email:** [franky.co.work@gmail.com](mailto:franky.co.work@gmail.com)
+
+🌐 **Portfolio:** https://devbyfranky.com
+
+---
+
+> *Building reliable software that solves real business problems.*
