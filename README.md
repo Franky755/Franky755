@@ -138,6 +138,26 @@
 
 ---
 
+## 🧪 Open Source
+
+**[Claude Quota Status Bar](https://github.com/Franky755/claude-quota-statusbar)**: a VS Code extension that shows your Claude subscription quota on the status bar. It displays 5-hour session, 7-day weekly and model-scoped usage percentages with reset countdowns, and works in VS Code, Cursor, Windsurf and Antigravity.
+
+- Reads existing Claude Code credentials (`~/.claude/.credentials.json` on Windows/Linux, Keychain on macOS) and keeps the token in memory only. No telemetry and no third-party servers.
+- Shares one cache across editor windows, with fetch locking and `Retry-After` backoff on HTTP 429.
+- English and Vietnamese UI, plus configurable warning and critical thresholds.
+
+<p>
+  <a href="https://open-vsx.org/extension/Franky755/claude-quota-statusbar">
+    <img src="https://img.shields.io/open-vsx/v/Franky755/claude-quota-statusbar?style=flat-square&label=Open%20VSX&color=c9ee7d&labelColor=111111" alt="Open VSX version" />
+  </a>
+  <a href="https://open-vsx.org/extension/Franky755/claude-quota-statusbar">
+    <img src="https://img.shields.io/open-vsx/dt/Franky755/claude-quota-statusbar?style=flat-square&label=downloads&color=c9ee7d&labelColor=111111" alt="Open VSX downloads" />
+  </a>
+  <img src="https://img.shields.io/badge/license-MIT-111111?style=flat-square" alt="MIT license" />
+</p>
+
+---
+
 ## 🛠️ Technical Edge & Stack
 
 **Frontend & Headless**
