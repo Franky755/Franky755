@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://devbyfranky.com">
-    <img src="https://devbyfranky.com/images/og-default.png" alt="Dev by Franky — WordPress Developer & Platform Engineer" width="100%" />
+    <img src="https://devbyfranky.com/images/og-default.png" alt="Dev by Franky — WordPress & Job Board Developer" width="100%" />
   </a>
 
   <br />
@@ -24,7 +24,7 @@
     </a>
   </p>
 
-  <h3>WordPress & Platform Engineer · Headless Next.js / React · Job Boards & Marketplaces</h3>
+  <h3>WordPress & Job Board Developer · Headless Next.js / Astro · Job Boards & Marketplaces</h3>
 
   <p>
     I build fast, scalable, SEO-ready web platforms — from commercial <b>Job Boards & Freelance Marketplaces</b> to <b>Headless WordPress + Next.js</b> applications, <b>WooCommerce</b> stores, and enterprise <b>B2B</b> websites.
@@ -37,9 +37,9 @@
 
 | Metric | Highlight |
 | :--- | :--- |
-| **4+ Years Experience** | Full-cycle platform engineering across WordPress, PHP/Laravel, and React/Next.js |
+| **5+ Years Experience** | Full-cycle development across WordPress/PHP, React/Next.js, Astro and Node.js |
 | **60+ Projects Delivered** | Trusted by clients across **15 countries** (US, Belgium, Singapore, Japan, Vietnam & more) |
-| **1,950+ Theme Sales** | Core builder behind commercial ThemeForest platforms (**Civi** & **Felan**) |
+| **1,300+ Theme Sales** | Core builder behind **Civi**, a commercial job board theme on ThemeForest |
 | **B2B & Enterprise Ready** | Extensive experience maintaining & scaling US manufacturing / Thomasnet B2B websites |
 
 ---
@@ -63,15 +63,15 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://devbyfranky.com/projects/felan">
-        <img src="https://devbyfranky.com/images/case_study_felan_creative.webp" alt="Felan — Freelance Marketplace" width="100%" />
+      <a href="https://devbyfranky.com/projects/daddyshare">
+        <img src="https://devbyfranky.com/images/case_study_daddyshare.webp" alt="DaddyShare — Multi-channel Seller SaaS" width="100%" />
       </a>
-      <h3><a href="https://devbyfranky.com/projects/felan">Felan — Freelance Marketplace & Job Board</a></h3>
-      <p>Multi-vendor freelance marketplace & recruitment platform (<b>580+ sales</b>) featuring milestone-based workflows, service bidding, real-time messaging, wallets, and 16+ homepage demos.</p>
-      <p><code>WordPress</code> <code>PHP</code> <code>JavaScript</code> <code>AJAX</code> <code>REST API</code></p>
+      <h3><a href="https://devbyfranky.com/projects/daddyshare">DaddyShare — Multi-channel Seller SaaS</a></h3>
+      <p>Multi-tenant SaaS that shows Shopee sellers the <b>real profit on every order</b>, after platform fees, shipping and ad spend. Built as a TypeScript monorepo: React/Vite app, Fastify + PostgreSQL API, and an Astro landing site.</p>
+      <p><code>React</code> <code>Fastify</code> <code>PostgreSQL</code> <code>Astro</code> <code>Turborepo</code></p>
       <p>
-        <a href="https://devbyfranky.com/projects/felan"><b>📖 Case Study</b></a> ·
-        <a href="https://felan.ricetheme.com/freelance/"><b>🌐 Live Demo ↗</b></a>
+        <a href="https://devbyfranky.com/projects/daddyshare"><b>📖 Case Study</b></a> ·
+        <a href="https://daddyshare.vn/"><b>🌐 Live Website ↗</b></a>
       </p>
     </td>
   </tr>
@@ -103,15 +103,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://devbyfranky.com/projects/multi-contracts">
-        <img src="https://devbyfranky.com/images/case_study_multi_creative.webp" alt="Multi Contracts — Enterprise CRM & Analytics" width="100%" />
+      <a href="https://devbyfranky.com/projects/1688buyer">
+        <img src="https://devbyfranky.com/images/case_study_1688buyer.webp" alt="1688buyer — Cross-border Sourcing Platform" width="100%" />
       </a>
-      <h3><a href="https://devbyfranky.com/projects/multi-contracts">Multi Contracts — Enterprise B2B CRM</a></h3>
-      <p>Single Page Application (SPA) for multi-channel B2B contract lifecycles, inventory, invoicing, real-time Pusher chat, and live revenue analytics dashboards.</p>
-      <p><code>React</code> <code>Redux-Saga</code> <code>Laravel</code> <code>WebSockets</code> <code>Chart.js</code></p>
+      <h3><a href="https://devbyfranky.com/projects/1688buyer">1688buyer — Cross-border Sourcing Platform</a></h3>
+      <p>Buy-on-behalf platform for importing from <b>1688, Taobao and Tmall</b>: Yii2 storefront and operations CMS, Zalo OTP login, live CNY→VND pricing, and a <b>Manifest V3 Chrome extension</b> for one-click ordering.</p>
+      <p><code>Yii2</code> <code>PHP 8.3</code> <code>Chrome Extension</code> <code>Preact</code> <code>Zalo OTP</code></p>
       <p>
-        <a href="https://devbyfranky.com/projects/multi-contracts"><b>📖 Case Study</b></a> ·
-        <a href="https://app.multicontracts.com.sg/login"><b>🌐 Live App ↗</b></a>
+        <a href="https://devbyfranky.com/projects/1688buyer"><b>📖 Case Study</b></a> ·
+        <a href="https://1688buyer.vn/"><b>🌐 Live Website ↗</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -144,6 +144,7 @@
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -158,6 +159,7 @@
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
   <img src="https://img.shields.io/badge/Custom_Plugins_&_ACF-0073AA?style=flat-square&logo=wordpress&logoColor=white" alt="ACF & Custom Plugins" />
   <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" />
   <img src="https://img.shields.io/badge/Gutenberg-1E1E1E?style=flat-square&logo=wordpress&logoColor=white" alt="Gutenberg" />
   <img src="https://img.shields.io/badge/HubSpot_CMS-FF7A59?style=flat-square&logo=hubspot&logoColor=white" alt="HubSpot" />
 </p>
@@ -166,7 +168,11 @@
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Yii2-40B3D8?style=flat-square&logo=yii&logoColor=white" alt="Yii2" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/WP_Engine_&_Plesk-0ECAD4?style=flat-square&logo=wpengine&logoColor=black" alt="WP Engine" />
